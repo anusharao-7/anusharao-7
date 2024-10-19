@@ -59,16 +59,24 @@
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=anusharao-7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/><br/>
-  
-  <img src="https://github.com/anusharao-7.png" alt="Profile Pic" width="100" style="border-radius: 50%;" />
-  <br/><br/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=anusharao-7&show_icons=true&theme=react&count_private=true" alt="My GitHub Stats"/>
   <br/><br/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusharao-7&hide=HTML&langs_count=8&layout=compact&theme=react" alt="Top Languages"/>
 </div>
-<br>
+<br/>
+
+<div align="center">
+  <h2>🦸‍♀️ Anusha Rao's GitHub Status 🦸‍♀️</h2>
+  <img src="https://github.com/anusharao-7.png" alt="Profile Pic" width="100" style="border-radius: 50%;" />
+  <p>
+    <b>Total Stars:</b> [Insert total stars here] <br>
+    <b>Total Commits:</b> [Insert total commits here] <br>
+    <b>Total PRs:</b> [Insert total pull requests here] <br>
+    <b>Total Issues:</b> [Insert total issues here] <br>
+  </p>
+</div>
 
 
 
