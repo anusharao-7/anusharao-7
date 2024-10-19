@@ -67,16 +67,6 @@
 </div>
 <br/>
 
-<div align="center">
-  <h2>🦸‍♀️ Anusha Rao's GitHub Status 🦸‍♀️</h2>
-  <img src="https://github.com/anusharao-7.png" alt="Profile Pic" width="100" style="border-radius: 50%;" />
-  <p>
-    <b>Total Stars:</b> [Insert total stars here] <br>
-    <b>Total Commits:</b> [Insert total commits here] <br>
-    <b>Total PRs:</b> [Insert total pull requests here] <br>
-    <b>Total Issues:</b> [Insert total issues here] <br>
-  </p>
-</div>
 
 
 
