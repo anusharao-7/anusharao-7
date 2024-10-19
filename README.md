@@ -45,9 +45,9 @@
 <hr/>
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="" src="" />
+  <img alt="snake eating my contributions" src="![snake gif](https://github.com/anusharao-7/anusharao-7/blob/output/github-snake-dark.svg)" />
   
   <br/><br/><br/>
 </div>
