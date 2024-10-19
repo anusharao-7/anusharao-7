@@ -54,14 +54,12 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Streak Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=anusharao-7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
-  ![Status Badge](https://img.shields.io/badge/status-Busy-red)
-</div>
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anusharao-7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
 
 
   <!--<img width=390 src="https://github-readme-streak-stats-anusharao=7.vercel.app/?user=anusharao-7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
